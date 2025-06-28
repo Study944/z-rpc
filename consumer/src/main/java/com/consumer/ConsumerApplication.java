@@ -3,7 +3,6 @@ package com.consumer;
 import com.common.model.User;
 import com.common.service.UserService;
 import com.consumer.proxy.ServiceProxyFactory;
-import com.consumer.proxy.UserServiceStaticProxy;
 
 public class ConsumerApplication {
 
